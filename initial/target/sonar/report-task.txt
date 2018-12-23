@@ -1,0 +1,6 @@
+projectKey=org.springframework:gs-accessing-data-jpa
+serverUrl=http://localhost:9000
+serverVersion=7.4.0.18908
+dashboardUrl=http://localhost:9000/dashboard?id=org.springframework%3Ags-accessing-data-jpa
+ceTaskId=AWfPyY1iZ0NF0kFbmr3Q
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWfPyY1iZ0NF0kFbmr3Q

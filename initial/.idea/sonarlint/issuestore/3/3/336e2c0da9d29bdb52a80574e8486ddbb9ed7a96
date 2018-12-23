@@ -1,0 +1,22 @@
+
+Nsquid:S3655e"7Call "Optional#isPresent()" before accessing the value.(™Ä¸…
+Ssquid:S3655L"7Call "Optional#isPresent()" before accessing the value.(çå¥‚úÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜïÓŞıÿÿÿÿ
+Nsquid:S3655>"7Call "Optional#isPresent()" before accessing the value.(ö¿’ï
+N
+squid:S106~"9Replace this use of System.out or System.err by a logger.(ÛÅàL
+Nsquid:S3655_"7Call "Optional#isPresent()" before accessing the value.(™¥ø¡
+T
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ò´Úüÿÿÿÿ
+Ssquid:S3655R"7Call "Optional#isPresent()" before accessing the value.(ˆ…Ñ³ûÿÿÿÿ
+Osquid:S3655‰"7Call "Optional#isPresent()" before accessing the value.(ö¿’ï
+Ssquid:S3655s"7Call "Optional#isPresent()" before accessing the value.(ò“ïúÿÿÿÿ
+T
+squid:S106d"9Replace this use of System.out or System.err by a logger.(ÏÍï¼úÿÿÿÿ
+Csquid:S1168"+Return an empty collection instead of null.(¥¹ï
+Xsquid:UselessImportCheck"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ
+dsquid:S00112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(ˆŞ”Œúÿÿÿÿ
+Nsquid:S3655Q"7Call "Optional#isPresent()" before accessing the value.(™¥ø¡
+^squid:S00112p"FDefine and throw a dedicated exception instead of using a generic one.(¹°–
+Ssquid:S3655b"7Call "Optional#isPresent()" before accessing the value.(ò“ïúÿÿÿÿ
+bsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(³¹€ç

@@ -1,0 +1,8 @@
+
+Ssquid:S36553"7Call "Optional#isPresent()" before accessing the value.(ò¶ûÿÿÿÿ
+Ssquid:S3655,"7Call "Optional#isPresent()" before accessing the value.(ê¸ª¸ùÿÿÿÿ
+Nsquid:S36551"7Call "Optional#isPresent()" before accessing the value.(½áûÏ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜïÓŞıÿÿÿÿ
+‰squid:UselessImportCheck	"`Remove this unused import 'org.springframework.data.jpa.repository.support.SimpleJpaRepository'.(è¬ó•ûÿÿÿÿ
+Xsquid:UselessImportCheck"4Remove this unused import 'org.hibernate.Hibernate'.(óñ‹è
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

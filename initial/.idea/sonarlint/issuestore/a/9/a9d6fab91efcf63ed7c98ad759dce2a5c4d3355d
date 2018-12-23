@@ -1,0 +1,17 @@
+
+osquid:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖâÙa
+gsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(¬éÞËÿÿÿÿÿ
+Isquid:S16112"2Remove the parentheses around the "args" parameter(£Ù€ò
+@squid:S2629B"$Invoke method(s) only conditionally.(Í–ÿûÿÿÿÿ
+gsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(Üó„ùÿÿÿÿ
+gsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(¦õº·þÿÿÿÿ
+bsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(óãÓ§
+Usquid:UselessImportCheck"1Remove this unused import 'java.math.BigDecimal'.(êêŠ
+psquid:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(á„§Ö
+dsquid:S1192R"HDefine a constant instead of duplicating this literal "English" 3 times.(æ«™âúÿÿÿÿ
+bsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(¼Á–
+ssquid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›
+Asquid:S1481:"*Remove this unused "books" local variable.(ÁŠÉˆ
+gsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(ðŸ¨äýÿÿÿÿ
+@squid:S2629K"$Invoke method(s) only conditionally.(Í–ÿûÿÿÿÿ
+gsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(¾„¶ƒüÿÿÿÿ
